@@ -1,0 +1,4 @@
+- 👋 Hi, I’m jules cauzinille
+- 👀 I’m interested in speech recognition, speech synthesis, spoken language processing, signal processing, machine hearing and NLP in general.
+- 🌱 I’m currently learning linguistics and natural language processing (2nd year of master's degree in the university Paris Diderot)
+- 📫 How to reach me : jcauzinille@gmail.com 
