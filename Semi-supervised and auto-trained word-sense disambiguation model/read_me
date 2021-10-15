@@ -1,9 +1,0 @@
-University project
-Creation of a semi-supervised word-sense disambiguation model in french
-Implements :
-- neural networks (for a supervised model)
-- K-means and KNN algorithms (for unsupervised / semi-supervised models)
-- data extraction / processing functions for sense-annotated data or raw data
-- an autotrained model 
-
-See detailed report (in french) for more information
